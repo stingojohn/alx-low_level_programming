@@ -1,17 +1,11 @@
-/*
- * File: 9-print_comb.c
- * Auth: Brennan D Baraban
- */
-
 #include <stdio.h>
 
 /**
- * main - Prints all possible combinations of single-digit numbers.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Return: Always 0 (Succes)
  */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int num;
