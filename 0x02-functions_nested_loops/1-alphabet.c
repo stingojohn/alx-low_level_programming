@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 
 /**
  * print_alphabet - Entry point
@@ -16,4 +16,5 @@ void print_alphabet(void)
 
 	}
 	_putchar('\n');
+
 }
